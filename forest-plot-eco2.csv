@@ -1,0 +1,7 @@
+notes,country,cat,Num_obs,Num_exp,SMR,SMR_lower,SMR_upper
+Study,Country,6,Obs,Exp,,,
+Lewis et al 1999,United States,5,41,27.3,1.5,1.11,2.04
+Tsai et al 1999,Taiwan,4,402,364.4,1.1,1,1.22
+Chiu et al 2005,Taiwan,3,521,497.1,1.05,0.96,1.14
+Meliker et al 2007,United States,2,1293,971.7,1.33,1.26,1.41
+Smith et al 2012,Chile,1,40,19.7,2.03,1.48,2.76
